@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1628877795 source:c:\users\matheus\documents\programcacao c\13.8.21-aula\main.c
+	<stdio.h>
+	<stdlib.h>
+

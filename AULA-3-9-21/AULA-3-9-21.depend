@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1630692890 source:c:\users\matheus\documents\programcacao c\aula-3-9-21\main.c
+	<stdio.h>
+	<stdlib.h>
+	"minhalib.h"
+
+1630692986 c:\users\matheus\documents\programcacao c\aula-3-9-21\minhalib.h
+
